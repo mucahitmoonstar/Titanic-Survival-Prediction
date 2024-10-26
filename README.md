@@ -15,6 +15,9 @@ Understand the Dataset & cleanup (if required).
 Build a strong classification model to predict whether the passenger survives or not.
 Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms."
 
+![titanicdatasetpicture](https://github.com/user-attachments/assets/dce96866-6ea3-4bb9-98d1-a372a9c47249)
+
+
 GOAL:
 "The main objective is to develop a predictive model that determines whether a passenger survived the Titanic disaster using various features, including age, gender, and class. The aim is to explore patterns and relationships that influenced survival odds. This model will not only predict outcomes accurately but also highlight the most critical factors impacting survival. By analyzing the Titanic dataset, this project demonstrates how data-driven methods can provide valuable insights into historical events and inform decision-making in similar future scenarios. The final model seeks to achieve high accuracy, offering reliable predictions based on the provided dataset."
 
